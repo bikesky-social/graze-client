@@ -11,6 +11,7 @@ npm install graze-client
 1. **getFeeds:** Get all your graze feeds.
 1. **getFeed:** Get a specific feed.
 1. **hidePost:** Hide a post from a feed.
+1. **unhidePost:** Unhide a post from a feed.
 1. **updateAlgorithm:** Update an algorithm.
 1. **publishAlgorithm:** Publish an algorithm.
 1. **Algorithm Builder:** A custom utility to make building an algorithm easier. See the example below.
